@@ -1,0 +1,17 @@
+# Core libraries
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# NLP and datasets
+nltk==3.8.1
+datasets==2.21.0
+
+# Deep Learning stack
+tensorflow==2.17.0
+h5py==3.11.0
+keras-preprocessing==1.1.2   # Needed for keras Tokenizer compatibility
+
+# Web App
+streamlit==1.36.0
