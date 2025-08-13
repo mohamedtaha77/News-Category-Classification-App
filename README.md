@@ -28,7 +28,7 @@ Two models are implemented and switchable within the UI:
 ## 🔗 Live Demo
 
 Try the app live here:  
-👉 [Add your Streamlit link here]
+👉 [https://news-category-classification-app-77.streamlit.app/]
 
 ---
 
@@ -109,3 +109,4 @@ Covers:
 - Training both models
 - WordClouds + bar plots per class
 - Saving models and visualizations
+
